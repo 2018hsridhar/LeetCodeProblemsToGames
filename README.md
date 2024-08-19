@@ -4,7 +4,7 @@ Feature-izable leetcode problems, which can quickly be converted from their solu
 I've noticed leetcode questions which can definitely build out to future program features. Examples encompass as follows :
 
 1. Design a leaderboard ( URL = #TODO ) 
-2. Design snake ( URL = #TODO ) 
+2. Design snake ( URL = https://leetcode.com/problems/design-snake-game/description/ ) 
 3. Design twitter ( URL = #TODO ) 
 4. Design connect4 ( URL = #TODO )
 5.
